@@ -1,7 +1,15 @@
 {
   "name": "folio2k22",
+  "author": "Tomas Ferreras",
+  "description": "Hi! I'm Tomas Ferreras a software developer based in Tandil, Argentina.",
+  "homepage": "https://github.com/tomasferrerasdev/folio2k22.git",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
